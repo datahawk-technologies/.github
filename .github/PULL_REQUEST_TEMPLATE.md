@@ -14,5 +14,9 @@
 <!--- How has this been tested? -->
 <!--- How can it be tested? -->
 
+## Actions to-do before deploying to production
+<!--- Provide list of actions that should be done before deploying this change to production -->
+<!--- For example: run script on transac sql, update secret,  -->
+
 ## Links
 <!-- Jira : https://datahawk.atlassian.net/browse/XX-999 -->
