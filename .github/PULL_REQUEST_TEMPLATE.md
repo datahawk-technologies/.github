@@ -18,5 +18,9 @@
 <!--- Provide list of actions that should be done before deploying this change to production -->
 <!--- For example: run script on transac sql, update secret,  -->
 
+## Technical documentation / building block?
+<!--- Did you update the technical documentation / building block? -->
+<!--- We must keep it/them up-to-date -->
+
 ## Links
 <!-- Jira : https://datahawk.atlassian.net/browse/XX-999 -->
